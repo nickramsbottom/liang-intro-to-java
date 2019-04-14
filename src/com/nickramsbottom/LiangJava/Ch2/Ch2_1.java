@@ -1,3 +1,5 @@
+package com.nickramsbottom.LiangJava.Ch2;
+
 import java.util.Scanner;
 
 public class Ch2_1 {
